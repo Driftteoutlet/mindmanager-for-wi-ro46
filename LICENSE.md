@@ -1,4 +1,4 @@
-
+new MindManager for Windows Workflow | presentation-mode + real-time-sync is the best MindManager for Windows workflow, featuring presentation-mode and real-time-sync. Powerful,
 
 
 
